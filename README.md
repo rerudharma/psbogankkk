@@ -44,13 +44,25 @@
     </tbody>
 </table> 
 
-# PSBO APP (Front-End)
+# PSBO APP : Modul Manajemen Data Hewan Ternak
 
-A new Flutter project.
-
-# Farm Animals
+# Farm Animals : Description
 
 Aplikasi Farm Animals merupakan sebuah aplikasi dari manajemen data hewan ternak. Farm Animals nantinya diperuntukkan untuk para peternak yang ada di Indonesia. Aplikasi ini akan sangat membantu dalam memberikan informasi data hewan ternak kepada para pengguna. Peternak juga bisa memantau langsung aplikasi ini untuk kegiatan pemasaran hewan ternak mereka.
+
+## Use Case Diagram
+
+## Activity Diagram
+
+## Class Diagram
+
+## Fungsi Utama
+
+## Prototipe : Arsitektur Sistem
+
+## Teknik OOP yang Digunakan
+
+## Identifikasi Design Pattern
 
 ## Getting Started
 
