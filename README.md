@@ -51,10 +51,10 @@
 Aplikasi Farm Animals merupakan sebuah aplikasi dari manajemen data hewan ternak. Farm Animals nantinya diperuntukkan untuk para peternak yang ada di Indonesia. Aplikasi ini akan sangat membantu dalam memberikan informasi data hewan ternak kepada para pengguna. Peternak juga bisa memantau langsung aplikasi ini untuk kegiatan pemasaran hewan ternak mereka.
 
 ## Use Case Diagram
-<img src="![Use Case Diagram](https://user-images.githubusercontent.com/78837297/174296782-2d60523c-a903-4dbd-b7a9-5fc4ec26f2fd.jpg)">
+<img src="(https://user-images.githubusercontent.com/78837297/174296782-2d60523c-a903-4dbd-b7a9-5fc4ec26f2fd.jpg)">
 
 ## Activity Diagram
-<img src="![Activity Diagram](https://user-images.githubusercontent.com/78837297/174296849-0f0c2fd7-31f1-40e5-892c-26462e2555d5.jpg)">
+<img src="(https://user-images.githubusercontent.com/78837297/174296849-0f0c2fd7-31f1-40e5-892c-26462e2555d5.jpg)">
 
 ## Class Diagram
 
