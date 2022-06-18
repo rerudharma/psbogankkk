@@ -58,13 +58,11 @@ Aplikasi Farm Animals merupakan sebuah aplikasi dari manajemen data hewan ternak
 
 ## Class Diagram
 
-## Fungsi Utama
-
-## Prototipe : Arsitektur Sistem
+## Prototipe 
+.[Figma].(https://www.figma.com/file/LRvVQulIjPr8hWPJeoymA1/PSBO?node-id=0%3A1) 
+.[Folder Kerja].(https://ipb.link/drive-psbo-p1-kel7)
 
 ## Teknik OOP yang Digunakan
-
-## Identifikasi Design Pattern
 
 ## Getting Started
 
